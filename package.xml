@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Panda's Readd Ability Mod</title>
+  <id>Mod_PandaReaddAbilityMod</id>
+  <author>Now Happy Panda</author>
+  <loadPriority>100</loadPriority>
+  <description>Allow Meteor, Earthquake and Sword spells spawn as abilities on Adventures, Elites and Bosses</description>
+  <version>0.23.129</version>
+</Meta>
