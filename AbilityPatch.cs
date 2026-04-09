@@ -30,7 +30,8 @@ namespace Mod_PandaReaddAbilityMod
             string[] array2 = new string[]
             {
                 "Meteor",
-                "Earthquake"
+                "Earthquake",
+                "SummonDragon"
             };
 
             foreach (string text in array)

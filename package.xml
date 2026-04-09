@@ -4,6 +4,6 @@
   <id>Mod_PandaReaddAbilityMod</id>
   <author>Now Happy Panda</author>
   <loadPriority>100</loadPriority>
-  <description>Allow Meteor, Earthquake and Sword spells spawn as abilities on Adventures, Elites and Bosses</description>
-  <version>0.23.129</version>
+  <description>Allow Meteor, Earthquake, Summon Dragon and Sword spells spawn as abilities on Adventures, Elites and Bosses</description>
+  <version>0.23.291</version>
 </Meta>
